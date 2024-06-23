@@ -1,7 +1,7 @@
 # PSNR-M-Plus
-Full Referense video quality assessment algorithm considering the features of the human visual system.
+Full Reference video quality assessment algorithm considering the features of the human visual system.
 
-<p align="justify"> We propose a PSNR based video quality assessment method that also incorporates measurements of the HVS, which we call PSNR-M+. The HVS factors included are spatial and temporal frequency, eccentricity (distance from the centre of fovea in visual degrees), luminance, adaptation aspects of the HVS, and stimulus size. This new metric is an extention of our earlier PSNR-M which considered a small dataset on the dependence of separate spatial and temporal HVS characteristics on luminance, which was proven effective in comparison to PSNR.
+<p align="justify"> We propose a PSNR-based video quality assessment method that also incorporates measurements of the HVS, which we call PSNR-M+. The HVS factors included are spatial and temporal frequency, eccentricity (distance from the centre of the fovea in visual degrees), luminance, adaptation aspects of the HVS, and stimulus size. This new metric is an extension of our earlier PSNR-M, which considered a small dataset on the dependence of separate spatial and temporal HVS characteristics on luminance, which was proven effective in comparison to PSNR.
 
 <p align="justify">A flow diagram framework of the methodology for calculating weight coefficients is shown in the figure below.
 
@@ -13,4 +13,4 @@ Full Referense video quality assessment algorithm considering the features of th
 
 # Contact information
 
-For additional information send an email with your request to vladimir.a.mazin@gmail.com.
+If you would like more information, feel free to email your request to vladimir.a.mazin@gmail.com.
